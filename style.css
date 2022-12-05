@@ -1,0 +1,96 @@
+body
+ {
+    /* background: linear-gradient(to top right, #1004b4 0%, #056ef7 100%); */
+    background: radial-gradient(61.42% 131.5% at 8.47% -25.3%,#2160d4 0,#071b66 100%);
+
+    /* background: #002c97!important; */
+    padding-bottom: 60px;
+    min-height: 100vh;
+}
+.nav-bg {
+    margin-bottom: 60px;
+}
+
+.logo {
+    font-size: 28px;
+    color: #fff;
+    font-weight: 700;
+}
+.capital {
+    color: #8088ac;
+    margin-bottom: 20px;
+}
+.title {
+    color: #fff;
+    margin-bottom: 20px;
+    
+}
+.description {
+    color: #fff;
+    font-size: 12px;
+    margin-bottom: 80px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+}
+.contact-form{
+    background-color: #fff;
+}
+.card{
+    background-color: #fff;
+}
+.card-header{
+    border-bottom: none;
+    background-color: #fff;
+}
+.signup-form {
+    width: 450px;
+    margin: 0 auto;
+    padding: 30px 0;
+    font-size: 15px;
+}
+.signup-form form {
+    color: #999;
+    margin-bottom: 15px;
+    background: #fff;
+    padding: 30px;
+}
+
+.signup-form h2 {
+color: #636363;
+margin: 0 0 15px;
+position: relative;
+text-align: center;
+}
+
+.signup-form .form-group {
+margin-bottom: 20px;
+}
+
+.register {
+height: 40px;
+background-color: #e9f2f9;
+border-bottom: 1px solid #aeb1b5;
+border-radius: 0;
+border-top: none;
+outline: none;
+border-right: none;
+border-left: none;
+
+}
+
+.form-group button{
+color: #fff;
+}
+.reg{
+background-color: #e9f2f9;
+border-bottom: 1px solid #aeb1b5;
+border-radius: 0;
+border-top: none;
+outline: none;
+border-right: none;
+border-left: none;
+}
